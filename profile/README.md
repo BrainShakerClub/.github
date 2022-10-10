@@ -2,8 +2,8 @@
   <head>
     <h1>
       <div id="logo"> 
-         <p align="left">
-	          <img src="http://via.placeholder.com/150x150"> 
+         <p align="center">
+	          <img src="" width="100"> 
            </p>
        </div>       
       <p align="center"> 
