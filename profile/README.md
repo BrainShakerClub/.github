@@ -3,7 +3,7 @@
     <h1>
       <div id="logo"> 
          <p align="center">
-	          <img src="brainbase.jpg" width="100"> 
+	          <img src="https://ibb.co/7zy01sH" width="100"> 
            </p>
        </div>       
       <p align="center"> 
