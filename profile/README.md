@@ -20,3 +20,12 @@
  
 </html>
 
+```cpp
+while (life == true) 
+{
+  get.curious();
+  search.it();
+  solve.it();
+  learn.it();
+}
+```
